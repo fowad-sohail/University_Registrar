@@ -17,7 +17,7 @@ public class RegistrarGUI extends JFrame {
 
 	public RegistrarGUI(ArrayList<Section> sections, Student student) {
 		xLoc = 400;
-		yLoc = 100;
+		yLoc = 400;
 		dim = new Dimension(1200, 120);
 
 		panel = makeBackground();
